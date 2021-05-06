@@ -1,1 +1,3 @@
 # nightly-merge
+
+auto merge
